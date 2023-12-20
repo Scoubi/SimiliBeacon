@@ -1,6 +1,6 @@
 # Living Of the Web Beacon Simulator
 
-##What is it?
+## What is it?
 This Rust program emulates the configuration (commands to run) retreival.  
 The idea is to use a known good website (such as GitHub) and use it to store and retreive the configuration for the nodes. 
 
